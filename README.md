@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Yến Nhi 👋
 
-<!--
-**akkona197/akkona197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm **Phan Nguyễn Yến Nhi** (@akkona197), a passionate learner who loves building things with code and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- 🔭 Currently focused on improving my programming skills and working on personal projects.
+- 📚 Always learning something new, from web development to problem solving.
+- 💡 I enjoy turning ideas into real, working applications.
+- 🎯 My goal is to grow every day and contribute to meaningful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Interests
+- 💻 Programming & software development
+- 🌐 Web technologies (HTML, CSS, JavaScript)
+- 🤝 Collaboration and open-source contribution
+- 📈 Continuous learning and self-improvement
+
+## 📫 How to Reach Me
+- GitHub: [@akkona197](https://github.com/akkona197)
+- Feel free to explore my repositories and connect!
+
+## ⚡ Fun Fact
+I believe every line of code is a step toward a better version of myself. 🚀
