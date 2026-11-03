@@ -26,7 +26,7 @@ Llama 3.3 70B on Cloudflare Workers AI with an 8B fallback, JSON-schema output, 
 ### Background
 
 - **QA Team Lead** in e-commerce customer service, covering Call, Chat and Multi-channel support
-- **IT Business Analyst & Automation** (part-time) at [NhiLe Team](https://nlh.nhi.sg/) (Singapore/Vietnam)
+- **IT Business Analyst & Automation** (part-time) at [NhiLe Team](https://nlh.vn/) (Singapore/Vietnam)
 - **Information Technology** student at Tra Vinh University, with a background in Applied Mathematics
 
 ---
