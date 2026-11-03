@@ -16,10 +16,13 @@ I lead a QA team in e-commerce customer service and build the tools that help CX
 
 ---
 
-### Featured Project
+### Projects
 
 **[Master Task (nhelper)](https://github.com/akkona197/nhelper)**: a task manager with an AI Inbox that turns a pasted chat message or email into structured tasks.
 Llama 3.3 70B on Cloudflare Workers AI with an 8B fallback, JSON-schema output, Supabase with row-level security.
+
+**[Customer Churn Dashboard](https://public.tableau.com/app/profile/phan.nhi7141/viz/CustomerChurnDashboard_17549938968480/Homedashboard)** (Tableau): an interactive dashboard on telecom customer churn.
+Headline KPIs (churn rate, retention rate, average revenue lost per churned customer, lifetime value), churn broken down by contract type, payment method, demographics, tenure, internet type and location, and a drill-down of reasons for leaving. Final project of a data visualization course, graded 9/10.
 
 ---
 
@@ -40,6 +43,7 @@ Llama 3.3 70B on Cloudflare Workers AI with an 8B fallback, JSON-schema output, 
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflareworkers&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=googleappsscript&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 **Currently learning**
 
